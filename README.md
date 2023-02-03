@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 ## ⚡ Tec Stacks
 
-
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FranzKafkaYu&theme=cobalt2&show_icons=true&card_width=495px)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=onewhitethreee&show_icons=true&theme=tokyonight)  
+<a href="https://github.com/pulls?q=author%onewhitethreee">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=onewhitethreee&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows 愧怍's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=onewhitethreee&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
+  </picture>
+</a>
 
