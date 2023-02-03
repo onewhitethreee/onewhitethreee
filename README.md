@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, I'm onewhitethreee.
 
 <!--
 **onewhitethreee/onewhitethreee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   </picture>
 </a>
 
-### 👋 Hi there, I'm onewhitethreee.
 
 - 🧑 Student from Spain
 - 👨‍💻 Code enthusiast
