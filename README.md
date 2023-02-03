@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⚡ Tec Stacks
+### 👋 Hi there, I'm Kuizuo.
+
+- 🧑 Student from China
+- 👨‍💻 Code enthusiast
+- 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
 
 <a href="https://github.com/pulls?q=author%onewhitethreee">
   <picture>
