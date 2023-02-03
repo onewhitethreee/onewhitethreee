@@ -21,7 +21,8 @@ Here are some ideas to get you started:
     <img alt="Shows onewhitethreee's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=onewhitethreee&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
-### 👋 Hi there, I'm Kuizuo.
+
+### 👋 Hi there, I'm onewhitethreee.
 
 - 🧑 Student from Spain
 - 👨‍💻 Code enthusiast
