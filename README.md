@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/pulls?q=author%onewhitethreee">
+<a href="https://github.com/pulls?q=author%3Aonewhitethreee">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=onewhitethreee&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
     <img alt="Shows onewhitethreee's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=onewhitethreee&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
