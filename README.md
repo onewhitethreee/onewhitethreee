@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - 🧑 Student from Spain
 - 👨‍💻 Code enthusiast
 - 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
-- 💬 C++, C, C#, Java,Javascript, Python 
+- 💬 C++, C, C#, Java, Javascript, Python 
 
