@@ -52,10 +52,6 @@
 - 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
   
 - 💬 C++, C, C#, Java, Javascript, Python
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/onewhitethreee/onewhitethreee/assets/images/jobs.png" />
-
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
 </td></tr>
 
   
